@@ -1,0 +1,1 @@
+include ':app', ':externalstorage', ':sharedpreference', ':mysimplejsonpractice'
