@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Arpit Singhal\AndroidStudioProjects\ThirdWeek\AndroidSQLite\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\androidhive\androidsqlite\AndroidSQLiteTutorialActivity$override.class
+CHANGED,C:\Users\Arpit Singhal\AndroidStudioProjects\ThirdWeek\AndroidSQLite\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
